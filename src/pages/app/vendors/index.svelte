@@ -131,12 +131,6 @@
         </div>
          {/if}
         {#if mode === 1}
-        <!-- <div class="col-md-12 justify-content-center align-items-center">
-            <div class="main-card mb-3 card">
-                <div class="card-header">
-                    <h5 class="card-title">New Vendor</h5>
-                    <button on:click={reset} class="btn btn-light btn-icon"><i class="pe-7s-close-circle"></i></button>
-                </div> -->
                 <div class="container">
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-8">
@@ -174,8 +168,7 @@
                         </div>
                     </div>
                 </div>
-                </div>
-
+            </div>
          {/if}
     </div>
 
