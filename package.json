@@ -32,6 +32,6 @@
     "@sveltech/routify": "^1.5.9",
     "axios": "^0.19.2",
     "crypto-js": "^3.1.9-1",
-    "svelte": "^3.20.1"
+    "svelte": "^3.49.0"
   }
 }
